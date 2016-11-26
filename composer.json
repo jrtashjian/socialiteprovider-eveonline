@@ -1,6 +1,6 @@
 {
-    "name": "socialiteproviders/eveonline",
-    "description": "EveOnline OAuth2 Provider for Laravel Socialite",
+    "name": "jrtashjian/socialiteproviders-eveonline",
+    "description": "EVE Online OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
         "name": "JR Tashjian",
